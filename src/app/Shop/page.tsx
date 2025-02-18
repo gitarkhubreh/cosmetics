@@ -37,7 +37,7 @@ const products: Product[] = [
   { id: 21, name: 'PureGlow Face Serum', price:50, image: '/fs.jpg', sale: true },
   { id: 22, name: 'Magic Fix Makeup Remover', price:30, image: '/mr.jpg', sale: false },
   { id: 23, name: 'ShimmerStick illuminator', price:15, image: '/i.jpg', sale: true },
-  { id: 24, name: 'Crystal Clear Lip Balm', price:10, image: '/88.jpg', sale: true},
+  { id: 24, name: 'Crystal Clear Lip Balm', price:10, image: '/lip.jpg', sale: true},
 ];
 
 export default function Shop() {

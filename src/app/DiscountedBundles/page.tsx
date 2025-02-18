@@ -144,7 +144,7 @@ const products: Product[] = [
     id: 19,
     name: "Crystal Clear Lip Balm",
     price: 10,
-    image: "/88.jpg",
+    image: "/lip.jpg",
     sale: true,
   },
   {
