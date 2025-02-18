@@ -18,7 +18,7 @@ const products: Product[] = [
     id: 1,
     name: "Velvet Matte Lipstick",
     price: 21,
-    image: "/lip.jpg",
+    image: "/velvet.jpg",
     sale: true,
   },
   {

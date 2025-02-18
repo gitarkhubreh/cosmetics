@@ -14,7 +14,7 @@ type Product = {
 };
 
 const products: Product[] = [
-  { id: 1, name: 'Velvet Matte Lipstick', price:21 , image: '/lip.jpg', sale: true },
+  { id: 1, name: 'Velvet Matte Lipstick', price:21 , image: '/velvet.jpg', sale: true },
   { id: 2, name: 'HydraGlow Foundation', price:63 , image: '/found.jpg', sale: true },
   { id: 3, name: 'Luminous Setting Powder', price:12 , image: '/luminius.jpg', sale: false },
   { id: 4, name: 'SilkTouch Concealer', price:10 , image: '/c.jpg', sale: true },
