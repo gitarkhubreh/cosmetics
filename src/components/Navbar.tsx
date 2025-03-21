@@ -21,7 +21,7 @@ export default function Navbar() {
 
         {/* Desktop Menu */}
         <div className="hidden md:flex space-x-6 items-center">
-          <Link href="/HomePage" className="hover:text-pink-500">Home</Link>
+          <Link href="/" className="hover:text-pink-500">Home</Link>
           <Link href="/Shop" className="hover:text-pink-500">Shop</Link>
           
           {/* Our Range Dropdown */}
@@ -70,7 +70,7 @@ export default function Navbar() {
             <AiOutlineClose />
           </button>
 
-          <Link href="/HomePage" className="py-2 hover:text-pink-500" onClick={() => setMenuOpen(false)}>Home</Link>
+          <Link href="/" className="py-2 hover:text-pink-500" onClick={() => setMenuOpen(false)}>Home</Link>
           <Link href="/Shop" className="py-2 hover:text-pink-500" onClick={() => setMenuOpen(false)}>Shop</Link>
           
           {/* Our Range Dropdown */}
